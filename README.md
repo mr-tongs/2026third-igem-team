@@ -36,48 +36,33 @@ git commit -m "feat: add my bio"
 git push origin feature/add-my-bio
 
 # 3.资源管理
-2026third-igem-team/
-├── public/
-│   ├── favicon.ico
-|   |__ Team.html
-├── src/
-|   |── static/
-│   |   ├── images/
-│   |   ├── icons/
-│   |   └── media/
-│   ├── pages/
-│   │   ├── Home/
-│   │   │   ├── main.jsx
-│   │   │   └── Home.jsx
-│   │   ├── Project/
-│   │   │   ├── main.jsx
-│   │   │   └── Project.jsx
-│   │   ├── WetLab/
-│   │   │   ├── main.jsx
-│   │   │   └── WetLab.jsx
-│   │   ├── HumanPractices/
-│   │   │   ├── main.jsx
-│   │   │   └── HumanPractices.jsx
-│   │   └── Team/
-│   │       ├── main.jsx
-│   │       └── Team.jsx
-│   ├── components/
-│   │   ├── layout/
-│   │   │   ├── Header.jsx
-│   │   │   ├── Footer.jsx
-│   │   │   └── Navigation.jsx
-│   │   ├── ui/
-│   │   │   ├── Button.jsx
-│   │   │   ├── Card.jsx
-│   │   │   ├── Figure.jsx
-│   │   │   └── Modal.jsx
-│   ├── styles/
-│   │   ├── base.css
-│   │   ├── layout.css
-│   │   └── theme.css
-├── vite.config.js
-├── package.json
-└── README.md
+2026third-igem-team
+public
+    favicon.ico
+    Team.html
+src
+    static
+        images
+        icons
+        media
+    pages
+        Home
+            main.jsx
+            Home.jsx
+        Project
+…………………………………………
+    components
+        layout
+            Header.jsx
+            Footer.jsx
+            Navigation.jsx
+        ui
+            Button.jsx
+            Card.jsx
+    styles
+vite.config.js
+package.json
+README.md
 
 ## 结构说明
 public/.html/
