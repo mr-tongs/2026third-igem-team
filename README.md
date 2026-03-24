@@ -95,3 +95,26 @@ vite.config.js
 其他根目录文件
 package.json：定义依赖、脚本命令（如 dev, build, preview）；
 README.md：项目简介、本地开发指南、部署说明，对 iGEM 评审和开源协作非常重要。
+
+## 🚀 本地运行
+
+```bash
+
+安装依赖
+npm install
+
+启动开发服务器
+npm run dev
+
+构建生产版本
+npm run build
+```
+
+访问 `http://localhost:5173` 查看项目。
+
+## 📦 部署
+
+```bash
+部署到 GitHub Pages
+npm run deploy
+```
